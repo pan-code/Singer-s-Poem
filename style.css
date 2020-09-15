@@ -1,0 +1,20 @@
+h1 {
+  background-color: DarkRed;
+  color: white;
+  padding: 16px 0 16px 0;
+  width: 600px;
+  font-family: helvetica;
+  text-align: center;
+  
+
+
+}
+
+p {
+  font-family: helvetica;
+  color: DarkRed;
+  width: 600px;
+  text-align: center;
+
+}
+
